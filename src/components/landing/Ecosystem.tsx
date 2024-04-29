@@ -31,7 +31,7 @@ const Ecosystem = () => {
           <div className=" bg-[#7A8A99] h-[1px] w-full lg:w-[690px] xl:w-[740px]" />
           <div className=" flex justify-between lg:justify-normal lg:gap-[420px] xl:gap-[465px]">
             <a
-              href="http://client-local.kiscms.co.uk:10017/product-category/colonize-mars/"
+              href=""
               target="_blank"
             >
               {" "}
