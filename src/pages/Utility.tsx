@@ -105,20 +105,6 @@ const Utility = () => {
                 own Merch Store with holders but extends this to other partnered
                 Merch Stores.
               </p>
-              <div className=" flex flex-col gap-2">
-                <div className=" flex gap-3 items-center mt-5 justify-center  lg:justify-normal">
-                  <a
-                    href="http://client-local.kiscms.co.uk:10017/product-category/colonize-mars/ "
-                    target="blank"
-                  >
-                    <h3 className=" text-white font-d-din-regular uppercase text-[20px] md:text-[25px] lg-text-[30px]">
-                      KNOW MORE
-                    </h3>
-                  </a>
-                  <ArrowRightAltIcon className=" text-white" />
-                </div>
-                <div className=" bg-[#C2DAF2] w-[180px] h-[2px] mx-auto lg:mx-0" />
-              </div>
             </div>
           </div>
           {/* ----------------------------------------------------------------------------------------- */}
@@ -338,13 +324,13 @@ const Navbar = () => {
       ) : (
         <div className=" flex items-center justify-between p-5 pt-8 xl:hidden">
           <Link to="/">
-          <div className=" flex items-center gap-3 ">
-            <img
-              src={logo1}
-              className=" h-[25px] w-[20px] md:h-[40px] md:w-[35px]"
-            />
-            <img src={logo2} className=" h-[15px]  md:h-[25px] w-[250px]" />
-          </div></Link>
+            <div className=" flex items-center gap-3 ">
+              <img
+                src={logo1}
+                className=" h-[25px] w-[20px] md:h-[40px] md:w-[35px]"
+              />
+              <img src={logo2} className=" h-[15px]  md:h-[25px] w-[250px]" />
+            </div></Link>
           <button onClick={() => setIsOpen(true)}>
             <div className=" flex flex-col gap-[7px]">
               <div className=" bg-[#C2DAF2] h-[3px] w-[30px] rounded-md" />
