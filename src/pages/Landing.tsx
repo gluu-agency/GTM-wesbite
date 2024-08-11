@@ -13,7 +13,6 @@ import Ecosystem from "../components/landing/Ecosystem";
 import BuyGTM from "../components/landing/BuyGTM";
 import Overview from "../components/landing/Overview";
 import HowItWorks from "../components/landing/HowItWorks";
-import { TaxAndTreasury } from "../components/landing/TaxAndTreasury";
 import Footer from "../components/Footer";
 import ElonSays from "../components/landing/ElonSays";
 
@@ -88,9 +87,6 @@ const Landing = () => {
           <Ecosystem />
           <div className=" flex flex-col gap-10 xl:gap-40">
             <BuyGTM />
-            <div className="w-full h-[1px] bg-gradient-to-r from-[#7A8A99] to-[#000000] lg:hidden" />
-
-            <TaxAndTreasury />
             <div className="w-full h-[1px] bg-gradient-to-r from-[#7A8A99] to-[#000000] lg:hidden" />
 
             <Overview />

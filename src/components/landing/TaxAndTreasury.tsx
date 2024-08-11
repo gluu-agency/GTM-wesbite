@@ -8,7 +8,7 @@ export const TaxAndTreasury = () => {
         </h3>
         <div className=" ml-5 sm:ml-11">
           <p className=" font-d-din-italic text-white text-[16px] sm:text-[20px]">
-            Embrace the Power of 5%
+            Embrace the Power of 3%
           </p>
           <div>
             <div className=" relative mx-auto">
@@ -142,7 +142,7 @@ export const TaxAndTreasury = () => {
             {/* ----------- */}
             <div className=" absolute inset-0 top-[350px]">
               <div className=" ">
-                <div className=" bg-white h-[40px] w-[2px] mx-auto"/>
+                <div className=" bg-white h-[40px] w-[2px] mx-auto" />
                 <h3 className=" font-d-din-bold text-white text-[28px] text-center">
                   Liquidity Pool
                 </h3>
