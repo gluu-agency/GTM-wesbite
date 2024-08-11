@@ -24,7 +24,7 @@ const BuyGTM = () => {
               Tax:
             </p>
             <p className=" text-white text-[18px] font-d-din-bold text-center pr-4 pl-4 lg:pr-0 lg:pl-0 sm:text-[24px] md:text-[26px]  ">
-              5%
+              3%
             </p>
           </div>
           <div className="w-full h-[1px] bg-gradient-to-r from-[#7A8A99] to-[#000000] lg:hidden" />
