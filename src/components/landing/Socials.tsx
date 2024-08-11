@@ -1,10 +1,5 @@
 import twitteIcon from "../../assets/landing/Icons/akar-icons_twitter-fill.png";
 import telegramIcon from "../../assets/landing/Icons/teenyicons_telegram-solid.png";
-import youtubeIcon from "../../assets/landing/Icons/mdi_youtube.png";
-import instagramIcon from "../../assets/landing/Icons/mdi_instagram.png";
-import tiktokIcon from "../../assets/landing/Icons/ic_baseline-tiktok.png";
-import etherscanIcon from "../../assets/landing/Icons/etherscan-logo-circle 1.png";
-import dextoolsIcon from "../../assets/landing/Icons/dextools 1.png";
 
 const Socials = () => {
   const icons = [

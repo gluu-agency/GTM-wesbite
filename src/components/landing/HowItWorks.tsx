@@ -1,4 +1,3 @@
-import hiw1 from "../../assets/landing/staking hiw 1.png";
 // import hiw2 from "../../assets/landing/Group 754.png";
 // import hiw3 from "../../assets/landing/Group 757.png";
 import hiw4 from "../../assets/landing/money 1.png";

@@ -1,10 +1,7 @@
-import buy1frame from "../../assets/landing/buy1.png";
-import buy2frame from "../../assets/landing/buy2.png";
 import "@uniswap/widgets/fonts.css";
 const BuyGTM = () => {
   "0xe8b1e79d937c648ce1fe96e6739ddb2714058a18";
 
-  const address = "0xe8b1e79d937c648ce1fe96e6739ddb2714058a18";
   return (
     <div className=" bg-black">
       <div className=" mt-10">

@@ -1,11 +1,6 @@
 import footerArrow from "../assets/landing/NavArrow.svg";
-import youtubeLogo from "../assets/Footer/youtube.svg";
 import twitterLogo from "../assets/Footer/twitter.svg";
 import telegramLogo from "../assets/Footer/telegram.svg";
-import dextoolsLogo from "../assets/Footer/dextools.svg";
-import instaLogo from "../assets/Footer/instagram.svg";
-import etherscanLogo from "../assets/Footer/etherscan.svg";
-import tiktokLogo from "../assets/Footer/tiktok.svg";
 const Footer = (props: any) => {
   const footerIcons = [
     {
