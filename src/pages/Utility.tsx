@@ -88,7 +88,7 @@ const Utility = () => {
                 alpha group
               </h3>
               <p className=" text-white font-d-din-regular text-[15px] text-center md:text-[20px] sm:text-[16px] lg:text-[25px] pl-2 pr-2 lg:text-left lg:pr-0 lg:pl-0">
-                GTM Signals isn't your average trading bot – it's a powerful
+                MARS Signals isn't your average trading bot – it's a powerful
                 tool infused with the expertise of real gem hunters. Our
                 platform scours the markets for the best alpha signals,
                 providing you with the insights you need to make informed

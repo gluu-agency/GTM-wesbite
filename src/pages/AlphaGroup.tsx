@@ -24,7 +24,7 @@ const AlphaGroup = () => {
                 alpha group
               </h3>
               <p className=" font-d-din-regular text-white text-[15px] text-center md:text-[20px] sm:text-[16px] lg:text-[25px] pl-2 pr-2">
-                Staking represents a fundameWelcome to GTM Signals – Your
+                Staking represents a fundameWelcome to MARS Signals – Your
                 Gateway to Exclusive Crypto Insights!
               </p>
               <div className=" flex flex-col gap-2">
@@ -47,7 +47,7 @@ const AlphaGroup = () => {
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
               Unlock the power of cutting-edge technology and expert analysis
-              with GTM Signals. We're your premier destination for curated
+              with MARS Signals. We're your premier destination for curated
               cryptocurrency signals backed by specialized Gem hunters, advanced
               AI aggregation, and Insider Risk analysis.
             </p>
@@ -70,7 +70,7 @@ const AlphaGroup = () => {
               Elevate Your Trading Strategy
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
-              At GTM Signals, we go beyond surface-level analysis. Our platform
+              At MARS Signals, we go beyond surface-level analysis. Our platform
               utilizes alpha wallets and Kol wallets to provide a comprehensive
               risk score for each cryptocurrency. Empowering you with actionable
               insights to refine your trading strategy and minimize risk.
@@ -84,7 +84,7 @@ const AlphaGroup = () => {
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
               Joining our community is simple. Hold a minimum of $1000 worth of
-              GTM tokens and utilize our Collab Bot to verify your holdings.
+              MARS tokens and utilize our Collab Bot to verify your holdings.
               Once verified, you'll receive an exclusive invite link granting
               you access to our premium signals channel.
             </p>
