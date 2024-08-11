@@ -10,27 +10,6 @@ const HowItWorks = () => {
         How it Works
       </h3>
       <div className=" flex flex-col gap-4">
-        <div className="  flex flex-col items-center xl:items-start">
-          <div className=" h-[100px] w-[355px] sm:h-[200px] sm:w-[600px] md:h-[200px] md:w-[750px] lg:w-[1000px] xl:w-[1150px] lg:h- bg-gradient-to-br from-[#C2DAF2] to-black p-[1px] 2xl:w-[1400px]">
-            <div className=" h-full w-full bg-black">
-              <div className=" flex  items-center  h-full w-full gap-5">
-                <img
-                  src={hiw1}
-                  className=" w-[60px] h-[60px] ml-5 sm:w-[150px] sm:h-[150px]"
-                ></img>
-                <div className=" flex flex-col justify-center">
-                  <h3 className=" font-d-din-bold text-[#C2DAF2] text-[12px] uppercase sm:text-[30px]">
-                    Staking Rewards
-                  </h3>
-                  <p className=" font-d-din-regular text-white text-[10px] sm:text-[20px]">
-                    Stake your $GTM tokens and earn rewards while contributing
-                    to the security and stability of our network.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
         {/* -------------------- */}
         <div className="  flex flex-col items-center xl:items-start ">
           <div className=" h-[100px] w-[355px] sm:h-[200px] sm:w-[600px] md:h-[200px] md:w-[750px] lg:w-[1000px] xl:w-[1150px] lg:h- bg-gradient-to-br from-[#C2DAF2] to-black p-[1px] 2xl:w-[1400px]">
@@ -91,10 +70,9 @@ const HowItWorks = () => {
                     Profit Allocation
                   </h3>
                   <p className=" font-d-din-regular text-white text-[10px] sm:text-[20px]">
-                    The $GTM Treasury serves as the central repository for
+                    The $MARS Treasury serves as the central repository for
                     profits generated from our various revenue streams,
-                    including merchandise sales, signal bots, betting profits,
-                    and staking fees.
+                    including merchandise sales, signal bots, and betting profits.
                   </p>
                 </div>
               </div>
@@ -115,7 +93,7 @@ const HowItWorks = () => {
                     Strategic Investments
                   </h3>
                   <p className=" font-d-din-regular text-white text-[10px] sm:text-[20px]">
-                    Utilize funds from the treasury to purchase additional $GTM
+                    Utilize funds from the treasury to purchase additional $MARS
                     tokens, initiate buybacks, contribute to liquidity pools,
                     and facilitate token burns, enhancing liquidity and value
                     for our stakeholders.

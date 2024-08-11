@@ -7,7 +7,7 @@ const WhyGTM = () => {
     <div>
       <div className="flex flex-col items-center gap-8 lg:items-start xl:gap-16 2xl:gap-20">
         <h3 className=" font-d-din-bold text-white text-[28px] uppercase sm:text-[32px] md:text-[36px] lg:text-[40px] xl:text-[50px] lg:ml-[50px] xl:ml-[100px] 2xl:ml-[150px] ">
-          WHY $gtm?
+          WHY $MARS?
         </h3>
         <div className=" flex flex-col gap-6 lg:flex-row lg:justify-around w-full ">
           <div className=" flex flex-col items-center gap-2">
@@ -19,8 +19,8 @@ const WhyGTM = () => {
               MEMETICS
             </h3>
             <p className=" text-white text-[12px] font-d-din-regular text-center pr-4 pl-4 lg:pr-0 lg:pl-0 sm:text-[18px] md:text-[22px] lg:w-[300px] xl:w-[400px] ">
-              Seamlessly integrates into gaming, AI betting, shopping, and
-              staking, creating a comprehensive $GTM ecosystem.
+              Seamlessly integrates into gaming, AI betting, and shopping
+              - creating a comprehensive $MARS ecosystem.
             </p>
           </div>
           <div className=" flex flex-col items-center gap-2">
@@ -33,7 +33,7 @@ const WhyGTM = () => {
             </h3>
             <p className=" text-white text-[12px] font-d-din-regular text-center pr-4 pl-4 lg:pr-0 lg:pl-0 sm:text-[18px] md:text-[22px] lg:w-[300px] xl:w-[400px]">
               Led by a fully disclosed developer and backed by reputable
-              blockchain agencies, $GTM prioritizes transparency and community
+              blockchain agencies, $MARS prioritizes transparency and community
               engagement.
             </p>
           </div>

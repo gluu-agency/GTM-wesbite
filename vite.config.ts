@@ -1,9 +1,12 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
-import {resolve} from "path"
+import { resolve } from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  server: {
+    host: '127.0.0.1'
+  },
   define: {
     global: {},
   },
@@ -14,6 +17,6 @@ export default defineConfig({
       "~@fontsource/inter": "@fontsource/inter",
       jsbi: resolve(__dirname, '.', 'node_modules', 'jsbi', 'dist', 'jsbi-cjs.js'),
     },
-    
+
   },
 })

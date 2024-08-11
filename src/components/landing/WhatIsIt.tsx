@@ -10,7 +10,7 @@ const WhatIsIt = () => {
           WHAT IS IT?
         </h3>
         <p className=" text-white text-[12px] text-right font-d-din-regular sm:text-[20px] md:text-[25px] lg:text-[30px] xl:text-[35px]">
-          $GTM -
+          $MARS -
         </p>
         <p className=" text-white text-[12px] text-right font-d-din-regular sm:text-[20px] md:text-[25px] lg:text-[30px] xl:text-[35px]">
           a TOKEN/NFT project, rooted in Elon Musk's mission to Colonize Mars

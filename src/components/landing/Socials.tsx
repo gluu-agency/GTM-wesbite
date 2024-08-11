@@ -16,33 +16,8 @@ const Socials = () => {
     {
       key: 2,
       logo: telegramIcon,
-      url: "https://t.me/GatewayToMars_Portal",
-    },
-    {
-      key: 3,
-      logo: youtubeIcon,
-      url: "https://www.youtube.com/@ACTIVESH1",
-    },
-    {
-      key: 4,
-      logo: tiktokIcon,
-      url: "https://www.tiktok.com/@gtm_colonizemars",
-    },
-    {
-      key: 5,
-      logo: instagramIcon,
-      url: "https://www.instagram.com/colonizemars_gtm/",
-    },
-    {
-      key: 6,
-      logo: dextoolsIcon,
-      url: "https://www.dextools.io/app/en/ether/pair-explorer/0x2f679f848622da6f39f9ad807c7786618d283c79?t=1714129755162",
-    },
-    {
-      key: 7,
-      logo: etherscanIcon,
-      url: "https://etherscan.io/address/0xe8b1e79d937c648ce1fe96e6739ddb2714058a18",
-    },
+      url: "https://t.me/MARS_PORTAL_SOL",
+    }
   ];
   return (
     <div>

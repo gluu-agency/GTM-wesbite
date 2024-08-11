@@ -59,7 +59,7 @@ const AlphaGroup = () => {
               Discover Featured Cryptocurrencies
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
-              One of the primary attractions of staking $GTM is the opportunity
+              One of the primary attractions of staking $MARS is the opportunity
               to earn passive Annual Percentage Yield (APY).
             </p>
           </div>

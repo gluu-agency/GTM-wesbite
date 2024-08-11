@@ -11,8 +11,7 @@ const Colonize = () => {
   const fetchMarketCap = async () => {
     try {
       const response = await axios.get(
-        `https://data.messari.io/api/v1/assets/ColonizeMars/metrics?x-messari-api-key=${
-          import.meta.env.VITE_API_MESSARI
+        `https://data.messari.io/api/v1/assets/ColonizeMars/metrics?x-messari-api-key=${import.meta.env.VITE_API_MESSARI
         }`
       );
       const mcap = await response.data.data.marketcap.current_marketcap_usd;
@@ -26,8 +25,7 @@ const Colonize = () => {
   const fetchTokenHoldersAmount = async () => {
     try {
       const response = await axios.get(
-        `https://api.unmarshal.com/v1/ethereum/token-address/0xe8b1e79d937c648ce1fe96e6739ddb2714058a18/holders-count?auth_key=${
-          import.meta.env.VITE_API_UNMARSHAL
+        `https://api.unmarshal.com/v1/ethereum/token-address/0xe8b1e79d937c648ce1fe96e6739ddb2714058a18/holders-count?auth_key=${import.meta.env.VITE_API_UNMARSHAL
         }`
       );
       const holdersCount = await response.data.token_holders_count;
@@ -63,7 +61,7 @@ const Colonize = () => {
         <p className=" text-[13px] font-d-din-italic text-[#C2DAF2] lg:text-[25px]  mt-[10px]">
           Powered by{" "}
           <span className=" font-d-din-bold text-[13px] text-[#C2DAF2] lg:text-[25px] ">
-            $GTM
+            $MARS
           </span>
         </p>
       </div>
@@ -96,7 +94,7 @@ const Colonize = () => {
           <p className=" text-[#C2DAF2] font-d-din-italic text-[25px] ">
             Powered by{" "}
             <span className=" font-d-din-bold text-[#C2DAF2] text-[25px]">
-              $GTM
+              $MARS
             </span>
           </p>
         </div>
@@ -106,7 +104,7 @@ const Colonize = () => {
         <div className=" flex  gap-20 xl:gap-60 2xl:gap-80 2xl:ml-10">
           <div className=" flex flex-col items-center">
             <h3 className=" uppercase text-white font-d-din-bold text-[45px]">
-                 {numberOfHolders ? numberOfHolders : "750"}
+              {numberOfHolders ? numberOfHolders : "750"}
             </h3>
             <p className=" text-white uppercase font-d-din-regular text-[25px]">
               HOLDERS
@@ -134,7 +132,7 @@ const Colonize = () => {
       <div className=" flex flex-col items-center gap-4 lg:flex-row p-5 lg:items-end lg:hidden">
         <div className=" flex flex-col items-center">
           <h3 className=" uppercase text-white font-d-din-bold text-[27px]">
-                {numberOfHolders ? numberOfHolders : "750"}
+            {numberOfHolders ? numberOfHolders : "750"}
           </h3>
           <p className=" text-white uppercase font-d-din-regular text-[17px]">
             HOLDERS

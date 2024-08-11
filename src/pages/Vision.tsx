@@ -36,12 +36,12 @@ const Vision = () => {
               </p>
               <div className=" flex flex-col gap-2">
                 <a
-                  href="https://app.uniswap.org/swap?outputCurrency=0xe8b1e79d937c648ce1fe96e6739ddb2714058a18"
+                  href=""
                   target="_blank"
                 >
                   <div className=" flex gap-3 items-center mt-5 justify-center ">
                     <h3 className=" text-white font-d-din-regular uppercase text-[20px] md:text-[25px] lg-text-[30px]">
-                      BUY $GTM
+                      BUY $MARS
                     </h3>
                     <ArrowRightAltIcon className=" text-white" />
                   </div>

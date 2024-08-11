@@ -5,20 +5,20 @@ const ColonizeMarsMainText = () => {
       <h2 className=" uppercase text-white font-d-din-bold text-[75px] ml-8">
         COLONIZE MARS
       </h2>
-     <div>
-     <h4 className="text-white font-d-din-regular text-[40px] ml-8">
-        The ultimate, community-driven, meme coin!
-      </h4>
-      <img
-        src={underlineComponent}
-        alt=""
-        className=" w-[480px] h-[55px] mt-[-40px]"
-      />
-     </div>
+      <div>
+        <h4 className="text-white font-d-din-regular text-[40px] ml-8">
+          The ultimate, community-driven, meme coin!
+        </h4>
+        <img
+          src={underlineComponent}
+          alt=""
+          className=" w-[480px] h-[55px] mt-[-40px]"
+        />
+      </div>
       <h3 className=" text-[40px] text-[#C2DAF2] font-d-din-italic ml-8 mt-2 ">
         Powered by          {""}
         <span className=" text-[40px] text-[#C2DAF2] font-d-din-bold">
-          $GTM
+          $MARS
         </span>
       </h3>
     </div>

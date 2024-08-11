@@ -51,9 +51,9 @@ const Staking = () => {
               Overview
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
-              $GTM holder will be allowed to claim & stake their $GTM tokens
-              with the official $GTM staking pool. The APY earned from staking
-              $GTM will fluctuate based on the amount of stakers in the pool.
+              $MARS holder will be allowed to claim & stake their $MARS tokens
+              with the official $MARS staking pool. The APY earned from staking
+              $MARS will fluctuate based on the amount of stakers in the pool.
               This is what we refer to as "Dynamic MARS Staking".
             </p>
           </div>
@@ -64,7 +64,7 @@ const Staking = () => {
               Earning Passive APY
             </h3>
             <p className=" text-white font-d-din-regular text-[14px] md:text-[20px] sm:text-[16px] lg:text-[25px] text-left">
-              One of the primary attractions of staking $GTM is the opportunity
+              One of the primary attractions of staking $MARS is the opportunity
               to earn passive Annual Percentage Yield (APY).
             </p>
           </div>
@@ -89,7 +89,7 @@ const Staking = () => {
                     </h3>
                     <p className=" text-white font-d-din-regular text-[12px] md:text-[16px] sm:text-[14px] lg:text-[18px] 2xl:text-[22px] xl:text-left  xl:w-[300px] 2xl:w-[420px] w-[250px] text-center ">
                       The implementation of staking algorithms allows for the
-                      compounding of interest on $GTM tokens held over a
+                      compounding of interest on $MARS tokens held over a
                       duration, creating an incentive structure for sustained
                       ecosystem investment.
                     </p>
@@ -101,7 +101,7 @@ const Staking = () => {
                       Market Stabilization Function
                     </h3>
                     <p className=" text-white font-d-din-regular text-[12px] md:text-[16px] sm:text-[14px] lg:text-[18px] 2xl:text-[22px] xl:text-left  xl:w-[350px] 2xl:w-[420px] w-[250px] text-center ">
-                      The act of staking $GTM inherently contributes to the
+                      The act of staking $MARS inherently contributes to the
                       reduction of circulating supply, thereby mitigating market
                       volatility and enhancing the overall economic stability of
                       the Meme Kombat ecosystem.
@@ -146,7 +146,7 @@ const Staking = () => {
                     TOKEN
                   </p>
                   <p className=" font-d-din-bold text-[#C2DAF2] text-[16px] lg:text-[20px]">
-                    $GTM
+                    $MARS
                   </p>
                 </div>
                 <div className=" bg-[#7A8A99] h-[1px] w-full lg:w-[640px]" />
